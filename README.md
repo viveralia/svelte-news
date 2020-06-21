@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/550fdd3c-eb09-4ad6-a4fb-a626fb3761e0/deploy-status)](https://app.netlify.com/sites/svelte-news-tailwind/deploys)
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
